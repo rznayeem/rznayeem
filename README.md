@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="https://i.imgur.com/OB4fOWr.gif" />
 <!--
 **rznayeem/rznayeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
