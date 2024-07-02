@@ -18,7 +18,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=expressjs"/>
-<img src="https://skillicons.dev/icons?i=reactjs"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=js"/>
 <img src="https://skillicons.dev/icons?i=firebase"/>
 </p>
