@@ -14,7 +14,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 ## ⚙️ Skills
 
-<p background="red" align="center">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=expressjs"/>
