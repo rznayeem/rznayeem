@@ -11,3 +11,20 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 ## :chart_with_upwards_trend: Current Statistics
 
 <img width="100%" src="https://streak-stats.demolab.com?user=rznayeem&theme=dark" alt="GitHub Streak" />
+
+## ⚙️ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=expressjs"/>
+<img src="https://skillicons.dev/icons?i=reactjs"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+</p>
