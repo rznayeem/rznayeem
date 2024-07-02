@@ -10,4 +10,4 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 ## :chart_with_upwards_trend: Current Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rznayeem&theme=dark)](https://git.io/streak-stats)
+<img width="100%" src="https://streak-stats.demolab.com?user=rznayeem&theme=dark" alt="GitHub Streak" />
