@@ -94,55 +94,55 @@ Data & Infrastructure
 
 Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,npm,pnpm,figma" />
-
-</div>
-
-<br/>
-
 <div align="center">
 
-🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,npm,pnpm,figma" alt="Workflow tools" />
 
-⚙️ Backend
+<br/><br/>
 
-🗄️ Data
+<table>
+<tr>
+<td align="center" width="25%">
 
-☁️ Infrastructure
+<strong>💻 Frontend</strong>
 
-React
+<br/><br/>
 
-Node.js
+<code>React</code> · <code>Next.js</code><br/><code>TypeScript</code> · <code>Tailwind</code>
 
-MongoDB
+</td>
+<td align="center" width="25%">
 
-Vercel
+<strong>⚙️ Backend</strong>
 
-Next.js
+<br/><br/>
 
-Express
+<code>Node.js</code> · <code>Express</code><br/><code>NestJS</code> · <code>REST APIs</code>
 
-PostgreSQL
+</td>
+<td align="center" width="25%">
 
-Docker
+<strong>🗄️ Data</strong>
 
-TypeScript
+<br/><br/>
 
-NestJS
+<code>MongoDB</code> · <code>PostgreSQL</code><br/><code>Redis</code> · <code>Data Modeling</code>
 
-Redis
+</td>
+<td align="center" width="25%">
 
-Linux
+<strong>☁️ Infrastructure</strong>
 
-Tailwind
+<br/><br/>
 
-REST APIs
+<code>Git</code> · <code>GitHub</code><br/><code>Docker</code> · <code>Vercel</code> · <code>Linux</code>
 
-Data Modeling
-
-GitHub
+</td>
+</tr>
+</table>
 
 </div>
+---
 
 🚀 WHAT I BUILD
 
