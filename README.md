@@ -5,8 +5,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/github/followers/rznayeem?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/rznayeem)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rz-nayeem/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannatun.nayeem11@gmail.com)&nbsp;
 [![MockupHive](https://img.shields.io/badge/MockupHive-Live%20Product-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mockuphive.com/)
 
 <br/><br/>
@@ -52,7 +52,7 @@
 
 🟢&nbsp;<strong>MockupHive</strong> &mdash; Live &amp; Iterating<br/>
 🟡&nbsp;<strong>ISP Billing SaaS</strong> &mdash; In Development<br/>
-🔵&nbsp;<strong>Email Platform</strong> &mdash; Research Phase
+🔵&nbsp;<strong>Email Platform</strong> &mdash; In Development
 
 </td>
 </tr>
@@ -178,7 +178,7 @@
 
 <p>System design for a modern email SaaS: campaign management, contact segmentation, automation workflows, queue-based delivery workers, and analytics.</p>
 
-![Research](https://img.shields.io/badge/Status-Research-8B5CF6?style=flat-square)
+![In Dev](https://img.shields.io/badge/Status-Research-8B5CF6?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-Queues-1a1a2e?style=flat-square)
@@ -252,8 +252,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rznayeem)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)&nbsp;
-[![Email](https://img.shields.io/badge/Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rz-nayeem/)&nbsp;
+[![Email](https://img.shields.io/badge/Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zannatun.nayeem11@gmail.com)
 
 <br/><br/>
 
