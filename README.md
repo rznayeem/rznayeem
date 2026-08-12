@@ -1,440 +1,210 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zannatun%20Nayeem&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20Product%20Engineer&descAlignY=57&descSize=17&descColor=58A6FF" width="100%"/>
+
 <div align="center">
-
-<!-- HERO -->
-
-<img src="https://i.imgur.com/wSSEFK0.gif" width="100%" alt="Nayeem developer banner" />
 
 <br/>
 
-<h1>Md. Zannatun Nayeem</h1>
+[![GitHub](https://img.shields.io/github/followers/rznayeem?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/rznayeem)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)&nbsp;
+[![MockupHive](https://img.shields.io/badge/MockupHive-Live%20Product-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mockuphive.com/)
 
-<h3>Full-Stack Developer · SaaS Builder · Product Engineer</h3>
+<br/><br/>
 
-<p>
-  <strong>I turn ideas into polished, production-ready digital products.</strong>
-</p>
-
-<p>
-  <a href="https://github.com/rznayeem">
-    <img src="https://img.shields.io/badge/GitHub-rznayeem-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+SaaS+products+from+zero+to+production;Designing+modern+full-stack+systems;Exploring+AI-powered+product+experiences;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve"
-alt="Typing animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+production-ready+SaaS+products+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Designing+AI-powered+product+experiences+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Typing SVG"/>
 
 </div>
 
-✦ PROFILE SNAPSHOT
+<br/>
+
+---
+
+## 👋 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-👋 Hey, I'm Nayeem
+<p>I'm a Full-Stack Developer building <strong>modern web applications</strong>, <strong>SaaS products</strong>, and <strong>AI-powered experiences</strong> — end-to-end, from idea to production.</p>
 
-I'm a Full-Stack Developer focused on building modern web applications, SaaS products, backend systems, and product experiences.
+<p>My work on <a href="https://mockuphive.com/"><strong>MockupHive</strong></a> shaped how I think about software: architecture, UX, backend performance, and AI integration all matter equally. I'm not here to just write code — I'm here to ship things that work.</p>
 
-I enjoy working across the entire product lifecycle:
-
-Idea → Research → UX → Architecture → Development → Deployment → Iteration
-
-My goal isn't simply to make software work.
-
-Make it useful. Make it simple. Make it scalable.
-
-</td>
-
-<td width="45%" valign="top">
-
-⚡ Currently
-
-ROLE
-Full-Stack Developer
-
-FOCUS
-SaaS · AI · Backend · Product
-
-BUILDING
-Real-world software products
-
-LEARNING
-Scalable systems + AI
-
-MINDSET
-Build. Break. Learn. Improve.
-
-</td>
-</tr>
-</table>
-
-⚙️ ENGINEERING STACK
-
-<div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-
-Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker" />
-
-Workflow
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,npm,pnpm,figma" alt="Workflow tools" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<strong>💻 Frontend</strong>
-
-<br/><br/>
-
-<code>React</code> · <code>Next.js</code><br/><code>TypeScript</code> · <code>Tailwind</code>
-
-</td>
-<td align="center" width="25%">
-
-<strong>⚙️ Backend</strong>
-
-<br/><br/>
-
-<code>Node.js</code> · <code>Express</code><br/><code>NestJS</code> · <code>REST APIs</code>
-
-</td>
-<td align="center" width="25%">
-
-<strong>🗄️ Data</strong>
-
-<br/><br/>
-
-<code>MongoDB</code> · <code>PostgreSQL</code><br/><code>Redis</code> · <code>Data Modeling</code>
-
-</td>
-<td align="center" width="25%">
-
-<strong>☁️ Infrastructure</strong>
-
-<br/><br/>
-
-<code>Git</code> · <code>GitHub</code><br/><code>Docker</code> · <code>Vercel</code> · <code>Linux</code>
-
-</td>
-</tr>
-</table>
-
-</div>
----
-
-🚀 WHAT I BUILD
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-🧩 Full-Stack Apps
-
-Modern applications with clean frontend architecture, APIs, authentication, databases, dashboards, and integrations.
-
-</td>
-
-<td width="33%" align="center">
-
-☁️ SaaS Products
-
-Multi-feature products combining UX, backend systems, billing, background jobs, analytics, and deployment.
-
-</td>
-
-<td width="33%" align="center">
-
-🤖 AI Experiences
-
-Exploring how AI can turn traditional software workflows into faster, smarter product experiences.
-
-</td>
-</tr>
-</table>
-
-🏗️ HOW I THINK ABOUT SOFTWARE
-
-<div align="center">
-
-┌──────────────┐
-│    PROBLEM   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   RESEARCH   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     UX       │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ ARCHITECTURE │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    BUILD     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    SHIP      │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    LEARN     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   IMPROVE    │
-└──────────────┘
-
-</div>
-
-<p align="center">
-  <sub>I prefer understanding the problem before choosing the technology.</sub>
+<p>
+&nbsp;&nbsp;📐&nbsp;<strong>Problem first.</strong> Understand before building.<br/>
+&nbsp;&nbsp;🏗️&nbsp;<strong>Architecture matters.</strong> Design for scale and change.<br/>
+&nbsp;&nbsp;🎯&nbsp;<strong>UX is the product.</strong> Technology should feel invisible.<br/>
+&nbsp;&nbsp;🚀&nbsp;<strong>Ship early.</strong> A working product learns faster than a perfect plan.
 </p>
 
-🧠 ENGINEERING DNA
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-01
-
-🧠
-
-Problem First
-
-Understand the product before writing code.
-
 </td>
-<td width="25%" align="center">
+<td width="45%" valign="top">
 
-02
+<br/>
 
-🏗️
+🔹 <strong>Role</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-Stack Developer<br/>
+🔹 <strong>Focus</strong>&nbsp;&nbsp;&nbsp;&nbsp;SaaS · AI · Backend · Product<br/>
+🔹 <strong>Building</strong>&nbsp;&nbsp;MockupHive · ISP Platform<br/>
+🔹 <strong>Exploring</strong>&nbsp;Distributed Systems · AI UX<br/>
+🔹 <strong>Based in</strong>&nbsp;&nbsp;Bangladesh 🇧🇩<br/>
+🔹 <strong>Mindset</strong>&nbsp;&nbsp;Build. Break. Learn. Improve.
 
-Architecture
+<br/><br/>
 
-Keep systems modular and maintainable.
-
-</td>
-<td width="25%" align="center">
-
-03
-
-🎨
-
-Experience
-
-Technology should feel simple to the user.
-
-</td>
-<td width="25%" align="center">
-
-04
-
-🚀
-
-Ship
-
-A working product beats a perfect idea.
+🟢&nbsp;<strong>MockupHive</strong> &mdash; Live &amp; Iterating<br/>
+🟡&nbsp;<strong>ISP Billing SaaS</strong> &mdash; In Development<br/>
+🔵&nbsp;<strong>Email Platform</strong> &mdash; Research Phase
 
 </td>
 </tr>
 </table>
 
-🌐 PRODUCT & PROJECTS
+---
 
-🐝 MockupHive
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-AI-powered mockup platform
-
-MockupHive is a product focused on making professional mockup creation faster through AI-assisted workflows.
-
-Core experience
-
-AI mockup generation
-
-Upload & place designs
-
-Surface detection
-
-Precise masking
-
-Automated wrapping
-
-Lighting & shadow handling
-
-Product-oriented SaaS workflow
-
-</td>
-<td width="42%" valign="top">
-
-Product stack mindset
-
-Web App
-   ↓
-API
-   ↓
-AI / Processing
-   ↓
-Storage
-   ↓
-Database
-   ↓
-Analytics
-
-<a href="https://mockuphive.com/">
-  <img src="https://img.shields.io/badge/OPEN%20MOCKUPHIVE-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-🎓 iTech Academy
-
-<table>
-<tr>
-<td width="42%" valign="top">
-
-Learning Platform
-
-A digital platform concept for managing learning experiences across students, instructors, courses, and administration.
-
-</td>
-<td width="58%" valign="top">
-
-Students
-    │
-    ├── Courses
-    ├── Learning Content
-    ├── Progress
-    └── Accounts
-          │
-          ▼
-     Admin System
-          │
-    ┌─────┴─────┐
-    ▼           ▼
-Courses      Users
-
-</td>
-</tr>
-</table>
-
-📧 Email Infrastructure / SaaS
-
-A product direction exploring the architecture behind modern email platforms.
+## ⚙️ Tech Stack
 
 <div align="center">
 
-Campaigns
+**Frontend**
 
-Contacts
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
 
-Automation
+<br/><br/>
 
-Infrastructure
+**Backend**
 
-✉️
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
 
-👥
+<br/><br/>
 
-⚡
+**Data & Infrastructure**
 
-☁️
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,nginx&theme=dark" />
 
-Templates
+<br/><br/>
 
-Lists
+**Workflow & Tools**
 
-Workflows
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,vscode&theme=dark" />
 
-Workers
+<br/><br/>
 
-Analytics
-
-Segmentation
-
-Queues
-
-Providers
+| 💻 Frontend | ⚙️ Backend | 🗄️ Data | ☁️ Infrastructure |
+|:-----------:|:----------:|:-------:|:-----------------:|
+| React · Next.js · TypeScript | Node.js · Express · NestJS | MongoDB · PostgreSQL | Docker · Vercel · Linux |
+| Tailwind CSS · Vite | REST APIs | Redis · Data Modeling | Git · GitHub · Nginx |
 
 </div>
 
-Technical areas
+---
 
-REST API · Redis · Queues · Workers · Domain Verification · Email Providers · Analytics
+## 🚀 Featured Projects
 
-🧱 SYSTEMS I LIKE BUILDING
+### 🐝 MockupHive — AI-Powered Mockup Platform
 
-                         ┌──────────────────┐
-                         │    USER / UI     │
-                         │ React / Next.js  │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │     API LAYER    │
-                         │ REST / Backend   │
-                         └────────┬─────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-      ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
-      │  DATABASE   │      │    REDIS    │      │ EXTERNAL    │
-      │ Mongo/Post  │      │ Cache/Queue │      │ SERVICES    │
-      └─────────────┘      └──────┬──────┘      └─────────────┘
-                                  │
-                                  ▼
-                           ┌─────────────┐
-                           │   WORKER    │
-                           │ Background  │
-                           │    Jobs     │
-                           └──────┬──────┘
-                                  │
-                      ┌───────────┴───────────┐
-                      ▼                       ▼
-                 ┌──────────┐            ┌──────────┐
-                 │  Email   │            │ Storage  │
-                 └──────────┘            └──────────┘
+<table>
+<tr>
+<td width="65%" valign="top">
 
-📊 GITHUB DASHBOARD
+<p>My flagship product. MockupHive is a <strong>live SaaS platform</strong> that makes professional mockup creation dramatically faster through AI-assisted workflows.</p>
+
+<p><strong>AI features I built:</strong></p>
+
+🤖 <strong>Text-to-Mockup</strong> &mdash; generate mockups from a prompt<br/>
+✨ <strong>Create Similar Mockup</strong> &mdash; AI-driven style matching<br/>
+🎯 <strong>Smart Auto-Placement</strong> &mdash; intelligent design positioning<br/>
+🔍 <strong>Surface Detection</strong> &mdash; precise masking, wrapping &amp; shadow handling<br/>
+
+<br/>
+
+<p><strong>What I owned:</strong> product architecture, backend API, AI pipeline integration, cloud storage, and production deployment — full lifecycle.</p>
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<br/>
+
+![Live](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge)
+
+<br/><br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Models-F59E0B?style=flat-square&logoColor=white)
+
+<br/><br/>
+
+[![Visit MockupHive](https://img.shields.io/badge/Visit%20MockupHive%20%E2%86%92-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mockuphive.com/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🗂️ More Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>🌐 ISP Billing & Management SaaS</strong>
+
+<p>A niche SaaS product for the Bangladeshi ISP market. MikroTik RouterOS integration, bKash/Nagad mobile payments, SMS automation, client portal, and a full billing engine.</p>
+
+![In Dev](https://img.shields.io/badge/Status-In%20Dev-F59E0B?style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-1a1a2e?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<strong>🎓 iTech Academy</strong>
+
+<p>A digital learning management system. Student enrollment, course management, progress tracking, and a full admin panel for instructors and administrators.</p>
+
+![Completed](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>📧 Email Platform Architecture</strong>
+
+<p>System design for a modern email SaaS: campaign management, contact segmentation, automation workflows, queue-based delivery workers, and analytics.</p>
+
+![Research](https://img.shields.io/badge/Status-Research-8B5CF6?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-Queues-1a1a2e?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<strong>📈 Stock Insight</strong>
+
+<p>A market analysis tool for surfacing actionable investment insights — data visualization, trend analysis, and filtering for informed decision-making.</p>
+
+![Live](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rznayeem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="49%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=rznayeem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rznayeem&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" width="41%" />
 
 </div>
@@ -443,19 +213,11 @@ REST API · Redis · Queues · Workers · Domain Verification · Email Providers
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rznayeem&theme=tokyonight&hide_border=true" width="72%" />
+<img src="https://streak-stats.demolab.com?user=rznayeem&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="72%" />
 
 </div>
 
-🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rznayeem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
-
-</div>
-
-📈 CONTRIBUTION ACTIVITY
+<br/>
 
 <div align="center">
 
@@ -463,104 +225,11 @@ REST API · Redis · Queues · Workers · Domain Verification · Email Providers
 
 </div>
 
-🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rznayeem/rznayeem/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-🔬 CURRENTLY EXPLORING
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🤖<br/><strong>AI Products</strong></td>
-<td align="center">🏗️<br/><strong>Scalable Architecture</strong></td>
-<td align="center">⚡<br/><strong>Queues & Workers</strong></td>
-<td align="center">📊<br/><strong>Product Analytics</strong></td>
-</tr>
-<tr>
-<td align="center">💳<br/><strong>Payments</strong></td>
-<td align="center">🔐<br/><strong>Auth Systems</strong></td>
-<td align="center">☁️<br/><strong>Cloud Deployment</strong></td>
-<td align="center">📦<br/><strong>Monorepos</strong></td>
-</tr>
-</table>
-
-</div>
-
-🧪 MY LEARNING LOOP
-
-<div align="center">
-
-LEARN
-
-↓
-
-BUILD
-
-↓
-
-BREAK
-
-↓
-
-DEBUG
-
-↓
-
-UNDERSTAND
-
-↓
-
-REBUILD BETTER
-
-</div>
-
-<p align="center">
-  <em>I learn fastest when I have to build something real.</em>
-</p>
-
-🧰 FAVORITE WORKFLOW
-
-<table>
-<tr>
-<td align="center"><strong>01</strong><br/>Understand</td>
-<td>→</td>
-<td align="center"><strong>02</strong><br/>Research</td>
-<td>→</td>
-<td align="center"><strong>03</strong><br/>Design</td>
-<td>→</td>
-<td align="center"><strong>04</strong><br/>Build</td>
-<td>→</td>
-<td align="center"><strong>05</strong><br/>Ship</td>
-<td>→</td>
-<td align="center"><strong>06</strong><br/>Improve</td>
-</tr>
-</table>
-
-💬 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-"Don't just write code."
-
-Build software people want to use.
-
 <br/>
 
-Good code → maintainableGood product → usefulGood UX → understandableGood engineering → all three
-
-</div>
-
-🌎 OPEN TO
-
 <div align="center">
 
-Open Source   SaaS   AI   Developer Tools   Full-Stack   Product Engineering
+<img src="https://github-profile-trophy.vercel.app/?username=rznayeem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
 
 </div>
 
@@ -568,24 +237,30 @@ Open Source   SaaS   AI   Developer Tools   Full-Stack   Product Engineerin
 
 <div align="center">
 
-Let's build something meaningful. 🚀
-
-<a href="https://github.com/rznayeem">
-  <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/rznayeem/rznayeem/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
+---
+
+## 🌎 Let's Connect
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rznayeem&style=for-the-badge" alt="Profile views" />
+<p>Open to <strong>freelance projects</strong>, <strong>SaaS collaboration</strong>, <strong>developer conversations</strong>, and opportunities to build something meaningful.</p>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rznayeem)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)&nbsp;
+[![Email](https://img.shields.io/badge/Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
+![Profile Views](https://komarev.com/ghpvc/?username=rznayeem&style=for-the-badge&color=58A6FF)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
