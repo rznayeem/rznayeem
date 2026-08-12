@@ -1,569 +1,591 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-  <img src="https://i.imgur.com/wSSEFK0.gif" width="100%" alt="Welcome animation" />
+<!-- HERO -->
 
-  <h1>Hi, I'm Md. Zannatun Nayeem 👋</h1>
+<img src="https://i.imgur.com/wSSEFK0.gif" width="100%" alt="Nayeem developer banner" />
 
-  <h3>Full-Stack Developer • SaaS Builder • Problem Solver</h3>
+<br/>
 
-  <p>
-    I build modern web applications with a strong focus on clean architecture,
-    great user experiences, scalable backend systems, and products that solve real problems.
-  </p>
+<h1>Md. Zannatun Nayeem</h1>
 
-  <p>
-    <a href="https://github.com/rznayeem">
-      <img src="https://img.shields.io/badge/GitHub-rznayeem-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<h3>Full-Stack Developer · SaaS Builder · Product Engineer</h3>
+
+<p>
+  <strong>I turn ideas into polished, production-ready digital products.</strong>
+</p>
+
+<p>
+  <a href="https://github.com/rznayeem">
+    <img src="https://img.shields.io/badge/GitHub-rznayeem-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+modern+web+applications;Turning+ideas+into+real+products;Exploring+AI-powered+developer+experiences;Always+learning%2C+always+shipping"
- alt="Typing animation"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+SaaS+products+from+zero+to+production;Designing+modern+full-stack+systems;Exploring+AI-powered+product+experiences;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve"
+alt="Typing animation"
 />
 
 </div>
 
-🧑‍💻 About Me
+✦ PROFILE SNAPSHOT
 
-I'm Md. Zannatun Nayeem, a full-stack developer who enjoys turning ideas into practical, polished software.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-My journey started with modern web development and gradually evolved into building complete products—from responsive interfaces and APIs to databases, authentication, background jobs, integrations, deployment, and product workflows.
+👋 Hey, I'm Nayeem
 
-I enjoy going beyond simply making something "work". I care about why a product should exist, how users will interact with it, how the architecture will scale, and how the final experience can feel simple even when the system behind it is complex.
+I'm a Full-Stack Developer focused on building modern web applications, SaaS products, backend systems, and product experiences.
 
-What I enjoy most
+I enjoy working across the entire product lifecycle:
 
-🚀 Building products from idea → MVP → production
+Idea → Research → UX → Architecture → Development → Deployment → Iteration
 
-🧩 Designing maintainable full-stack architectures
+My goal isn't simply to make software work.
 
-🎨 Creating clean, responsive, user-friendly interfaces
+Make it useful. Make it simple. Make it scalable.
 
-⚙️ Building APIs, backend services, queues, and integrations
+</td>
 
-🤖 Exploring AI-powered product features
+<td width="45%" valign="top">
 
-🧠 Learning technologies by building with them
+⚡ Currently
 
-🔍 Investigating problems before jumping into solutions
+ROLE
+Full-Stack Developer
 
-📈 Improving products through iteration and real-world feedback
+FOCUS
+SaaS · AI · Backend · Product
 
-My philosophy: Understand the problem deeply, build the simplest useful solution, then improve it continuously.
+BUILDING
+Real-world software products
 
-🧭 My Development Mindset
+LEARNING
+Scalable systems + AI
 
-Idea
-  ↓
-Understand the problem
-  ↓
-Research & validate
-  ↓
-Design the experience
-  ↓
-Build the architecture
-  ↓
-Develop the product
-  ↓
-Test & iterate
-  ↓
-Deploy
-  ↓
-Measure
-  ↓
-Improve
+MINDSET
+Build. Break. Learn. Improve.
 
-I believe good development is not just about writing code quickly.
+</td>
+</tr>
+</table>
 
-It's about making better technical and product decisions before writing the code.
+⚙️ ENGINEERING STACK
 
-🛠️ Technology Stack
+<div align="center">
 
 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
-</p>
-
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
 Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 
-Node.js • Express.js • NestJS • REST APIs
+Data & Infrastructure
 
-Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases and infrastructure" />
-</p>
+Workflow
 
-MongoDB • PostgreSQL • Redis
+<img src="https://skillicons.dev/icons?i=git,github,vercel,linux,npm,pnpm,figma" />
 
-DevOps & Developer Tools
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,npm,pnpm" alt="Developer tools" />
-</p>
+<br/>
 
-Git • GitHub • Docker • Vercel • Linux • npm • pnpm
+<div align="center">
 
-Design & Product
+🖥️ Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Design" />
-</p>
+⚙️ Backend
 
-Figma • Responsive UI • Design Systems • Product-focused UX
+🗄️ Data
 
-⚡ Skills at a Glance
+☁️ Infrastructure
 
-Area
+React
 
-Focus
+Node.js
 
-Frontend
+MongoDB
 
-React, Next.js, TypeScript, Tailwind CSS
+Vercel
 
-Backend
+Next.js
 
-Node.js, Express.js, NestJS
+Express
 
-API
+PostgreSQL
 
-REST, authentication, validation, integrations
+Docker
 
-Databases
+TypeScript
 
-MongoDB, PostgreSQL
+NestJS
 
-Caching / Queues
+Redis
 
-Redis, background processing
+Linux
 
-Architecture
-
-Monorepos, modular systems, reusable packages
-
-DevOps
-
-Git, GitHub, Vercel, Docker, Linux
-
-UI / UX
-
-Responsive interfaces, component systems, product UX
-
-Product
-
-MVP development, SaaS workflows, iteration
-
-AI
-
-AI-assisted workflows and product features
-
-🚀 What I Build
-
-I particularly enjoy working on software where several pieces need to work together as one system.
-
-🌐 Full-Stack Web Applications
-
-Applications with:
-
-Authentication & authorization
-
-Role-based access control
+Tailwind
 
 REST APIs
 
-Database design
+Data Modeling
 
-Validation
+GitHub
 
-File uploads
+</div>
 
-Search & filtering
+🚀 WHAT I BUILD
 
-Dashboards
+<table>
+<tr>
+<td width="33%" align="center">
 
-Admin panels
+🧩 Full-Stack Apps
 
-Payments
+Modern applications with clean frontend architecture, APIs, authentication, databases, dashboards, and integrations.
 
-Notifications
+</td>
 
-Third-party integrations
+<td width="33%" align="center">
 
 ☁️ SaaS Products
 
-I enjoy building products where the frontend, backend, database, infrastructure, billing, and user experience all come together.
+Multi-feature products combining UX, backend systems, billing, background jobs, analytics, and deployment.
 
-Typical SaaS architecture:
+</td>
 
-                    ┌─────────────────────┐
-                    │      Web App        │
-                    │  React / Next.js    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      API Layer      │
-                    │ Node / Nest / REST  │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-       ┌────────────┐   ┌────────────┐   ┌────────────┐
-       │ Database   │   │   Redis    │   │  Storage   │
-       │ Mongo/Post │   │ Cache/Queue│   │   Files    │
-       └────────────┘   └─────┬──────┘   └────────────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │   Worker    │
-                       │ Background  │
-                       │   Jobs      │
-                       └─────────────┘
+<td width="33%" align="center">
 
-🧪 How I Learn
+🤖 AI Experiences
 
-I don't like learning technology only through tutorials.
+Exploring how AI can turn traditional software workflows into faster, smarter product experiences.
 
-My preferred approach is:
+</td>
+</tr>
+</table>
 
-Learn the concept
-      ↓
-Build something with it
-      ↓
-Break it
-      ↓
-Debug it
-      ↓
-Understand why it broke
-      ↓
-Research better approaches
-      ↓
-Rebuild it properly
+🏗️ HOW I THINK ABOUT SOFTWARE
 
-That process helps me understand the technology rather than simply memorizing syntax.
+<div align="center">
 
-🧠 Areas I'm Exploring
+┌──────────────┐
+│    PROBLEM   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   RESEARCH   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     UX       │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ ARCHITECTURE │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    BUILD     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    SHIP      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    LEARN     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   IMPROVE    │
+└──────────────┘
 
-I'm continuously expanding beyond traditional CRUD application development.
+</div>
 
-Currently interested in:
+<p align="center">
+  <sub>I prefer understanding the problem before choosing the technology.</sub>
+</p>
 
-🤖 AI-powered applications
+🧠 ENGINEERING DNA
 
-🧠 AI-assisted developer workflows
+<table>
+<tr>
+<td width="25%" align="center">
 
-⚙️ Distributed background jobs
+01
 
-🔴 Redis-based queues and caching
+🧠
 
-🏗️ Scalable SaaS architecture
+Problem First
 
-📦 Monorepo architecture
+Understand the product before writing code.
 
-🔐 Authentication & authorization systems
+</td>
+<td width="25%" align="center">
 
-💳 Payment integrations
+02
 
-📊 Product analytics
+🏗️
 
-📧 Email infrastructure & automation
+Architecture
 
-☁️ Cloud deployment
+Keep systems modular and maintainable.
 
-🔧 Developer tooling
+</td>
+<td width="25%" align="center">
 
-🧩 Architecture I Enjoy
+03
 
-One of the things I enjoy most about software development is understanding how different pieces fit together.
+🎨
 
-A typical system I like to design can look like:
+Experience
 
-Frontend
-   │
-   ├── UI
-   ├── Forms
-   ├── Client State
-   └── API Client
-         │
-         ▼
-     API Server
-         │
-   ┌─────┼─────────────┐
-   │     │             │
-   ▼     ▼             ▼
- DB   External APIs   Queue
-                   │
-                   ▼
-                 Worker
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-       Email              Storage
-       Service            Service
+Technology should feel simple to the user.
 
-The exact architecture changes depending on the product, but I like systems where responsibilities are clearly separated and individual pieces can evolve without making the entire application harder to maintain.
+</td>
+<td width="25%" align="center">
 
-📂 Featured Projects
+04
 
-Replace the links below with your strongest public repositories and products.
+🚀
+
+Ship
+
+A working product beats a perfect idea.
+
+</td>
+</tr>
+</table>
+
+🌐 PRODUCT & PROJECTS
 
 🐝 MockupHive
 
-AI-powered mockup generation and design workflow platform.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-A product focused on helping users create professional visual mockups without relying on complicated image-editing workflows.
+AI-powered mockup platform
 
-Highlights
+MockupHive is a product focused on making professional mockup creation faster through AI-assisted workflows.
 
-AI-powered mockup generation
+Core experience
 
-Design upload and placement workflows
+AI mockup generation
 
-Automated surface wrapping
+Upload & place designs
 
-Masking and surface detection concepts
+Surface detection
 
-Lighting and shadow handling
+Precise masking
 
-SaaS-oriented product architecture
+Automated wrapping
 
-🔗 Visit MockupHive
+Lighting & shadow handling
+
+Product-oriented SaaS workflow
+
+</td>
+<td width="42%" valign="top">
+
+Product stack mindset
+
+Web App
+   ↓
+API
+   ↓
+AI / Processing
+   ↓
+Storage
+   ↓
+Database
+   ↓
+Analytics
+
+<a href="https://mockuphive.com/">
+  <img src="https://img.shields.io/badge/OPEN%20MOCKUPHIVE-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 🎓 iTech Academy
 
-Learning management platform for online and offline education workflows.
+<table>
+<tr>
+<td width="42%" valign="top">
 
-A full product experience designed around courses, learning content, students, instructors, and administrative workflows.
+Learning Platform
 
-🔗 Visit iTech Academy
+A digital platform concept for managing learning experiences across students, instructors, courses, and administration.
 
-📧 Email Marketing Platform
+</td>
+<td width="58%" valign="top">
 
-A modern email marketing product concept inspired by platforms that combine campaign management, contact management, automation, analytics, and transactional infrastructure.
+Students
+    │
+    ├── Courses
+    ├── Learning Content
+    ├── Progress
+    └── Accounts
+          │
+          ▼
+     Admin System
+          │
+    ┌─────┴─────┐
+    ▼           ▼
+Courses      Users
 
-Areas of focus
+</td>
+</tr>
+</table>
 
-Campaign management
+📧 Email Infrastructure / SaaS
 
-Contact and list management
+A product direction exploring the architecture behind modern email platforms.
 
-Email templates
+<div align="center">
 
-Transactional email APIs
+Campaigns
 
-Queue-based email processing
+Contacts
 
-Background workers
+Automation
 
-Redis-backed workflows
+Infrastructure
+
+✉️
+
+👥
+
+⚡
+
+☁️
+
+Templates
+
+Lists
+
+Workflows
+
+Workers
 
 Analytics
 
-Domain verification
+Segmentation
 
-Email provider integrations
+Queues
 
-📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rznayeem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="49%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rznayeem&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" width="41%" alt="Top languages" />
+Providers
 
 </div>
 
-<br />
+Technical areas
+
+REST API · Redis · Queues · Workers · Domain Verification · Email Providers · Analytics
+
+🧱 SYSTEMS I LIKE BUILDING
+
+                         ┌──────────────────┐
+                         │    USER / UI     │
+                         │ React / Next.js  │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │     API LAYER    │
+                         │ REST / Backend   │
+                         └────────┬─────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+      ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+      │  DATABASE   │      │    REDIS    │      │ EXTERNAL    │
+      │ Mongo/Post  │      │ Cache/Queue │      │ SERVICES    │
+      └─────────────┘      └──────┬──────┘      └─────────────┘
+                                  │
+                                  ▼
+                           ┌─────────────┐
+                           │   WORKER    │
+                           │ Background  │
+                           │    Jobs     │
+                           └──────┬──────┘
+                                  │
+                      ┌───────────┴───────────┐
+                      ▼                       ▼
+                 ┌──────────┐            ┌──────────┐
+                 │  Email   │            │ Storage  │
+                 └──────────┘            └──────────┘
+
+📊 GITHUB DASHBOARD
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rznayeem&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=rznayeem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rznayeem&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" width="41%" />
 
 </div>
 
-🏆 GitHub Achievements
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rznayeem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com?user=rznayeem&theme=tokyonight&hide_border=true" width="72%" />
 
 </div>
 
-🐍 Contribution Activity
+🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rznayeem/rznayeem/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=rznayeem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
 
 </div>
 
-📈 Contribution Graph
+📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rznayeem&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rznayeem&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
-💻 Developer Stats
+🐍 CONTRIBUTION SNAKE
 
-Frontend       ████████████████████░░░░  Strong
-Backend        ███████████████████░░░░░  Strong
-Databases      ████████████████░░░░░░░░  Strong
-Architecture   ███████████████░░░░░░░░░  Growing
-DevOps         ██████████████░░░░░░░░░░  Growing
-AI             █████████████░░░░░░░░░░░  Exploring
-UI/UX          ███████████████░░░░░░░░░  Product-focused
+<div align="center">
 
-These bars are intentionally illustrative rather than formal skill scores.
+<img src="https://raw.githubusercontent.com/rznayeem/rznayeem/output/github-contribution-grid-snake.svg" width="100%" />
 
-🧰 My Favorite Development Workflow
+</div>
 
-01  Understand
-    └─ What problem are we actually solving?
+🔬 CURRENTLY EXPLORING
 
-02  Research
-    └─ Existing products, patterns, APIs, competitors
-
-03  Design
-    └─ UX, data flow, architecture
-
-04  Build
-    └─ Small, testable, maintainable pieces
-
-05  Validate
-    └─ Check assumptions with real usage
-
-06  Improve
-    └─ Performance, UX, reliability, maintainability
-
-07  Ship
-    └─ Production deployment
-
-08  Iterate
-    └─ Measure → learn → improve
-
-🔥 What Matters to Me
+<div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🧠</h3>
-      <strong>Learning</strong><br/>
-      Understanding the "why", not just the "how".
-    </td>
-    <td align="center" width="25%">
-      <h3>🏗️</h3>
-      <strong>Architecture</strong><br/>
-      Building systems that stay maintainable as they grow.
-    </td>
-    <td align="center" width="25%">
-      <h3>🎨</h3>
-      <strong>Experience</strong><br/>
-      Making complex technology feel simple to users.
-    </td>
-    <td align="center" width="25%">
-      <h3>🚀</h3>
-      <strong>Shipping</strong><br/>
-      Turning ideas into working products.
-    </td>
-  </tr>
+<tr>
+<td align="center">🤖<br/><strong>AI Products</strong></td>
+<td align="center">🏗️<br/><strong>Scalable Architecture</strong></td>
+<td align="center">⚡<br/><strong>Queues & Workers</strong></td>
+<td align="center">📊<br/><strong>Product Analytics</strong></td>
+</tr>
+<tr>
+<td align="center">💳<br/><strong>Payments</strong></td>
+<td align="center">🔐<br/><strong>Auth Systems</strong></td>
+<td align="center">☁️<br/><strong>Cloud Deployment</strong></td>
+<td align="center">📦<br/><strong>Monorepos</strong></td>
+</tr>
 </table>
 
-🌎 Open to Collaboration
+</div>
 
-I'm interested in collaborating on:
-
-Open-source projects
-
-SaaS products
-
-Developer tools
-
-AI-powered applications
-
-Full-stack web applications
-
-Product experiments
-
-Interesting engineering challenges
-
-I enjoy working with people who care about building useful things, not just writing code.
-
-📫 Let's Connect
+🧪 MY LEARNING LOOP
 
 <div align="center">
 
-<a href="https://github.com/rznayeem">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
+LEARN
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+↓
+
+BUILD
+
+↓
+
+BREAK
+
+↓
+
+DEBUG
+
+↓
+
+UNDERSTAND
+
+↓
+
+REBUILD BETTER
+
+</div>
+
+<p align="center">
+  <em>I learn fastest when I have to build something real.</em>
+</p>
+
+🧰 FAVORITE WORKFLOW
+
+<table>
+<tr>
+<td align="center"><strong>01</strong><br/>Understand</td>
+<td>→</td>
+<td align="center"><strong>02</strong><br/>Research</td>
+<td>→</td>
+<td align="center"><strong>03</strong><br/>Design</td>
+<td>→</td>
+<td align="center"><strong>04</strong><br/>Build</td>
+<td>→</td>
+<td align="center"><strong>05</strong><br/>Ship</td>
+<td>→</td>
+<td align="center"><strong>06</strong><br/>Improve</td>
+</tr>
+</table>
+
+💬 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+"Don't just write code."
+
+Build software people want to use.
+
+<br/>
+
+Good code → maintainableGood product → usefulGood UX → understandableGood engineering → all three
+
+</div>
+
+🌎 OPEN TO
+
+<div align="center">
+
+Open Source   SaaS   AI   Developer Tools   Full-Stack   Product Engineering
+
+</div>
+
+<br/>
+
+<div align="center">
+
+Let's build something meaningful. 🚀
+
+<a href="https://github.com/rznayeem">
+  <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-✨ A Little More Personal
-
-const nayeem = {
-  role: "Full-Stack Developer",
-  mindset: "Build → Learn → Improve → Ship",
-  loves: [
-    "clean architecture",
-    "great UX",
-    "SaaS products",
-    "AI experiments",
-    "learning by building",
-    "solving difficult problems"
-  ],
-  currentlyLearning: [
-    "AI-powered applications",
-    "scalable systems",
-    "advanced backend architecture",
-    "product engineering"
-  ],
-  goal: "Build useful software that people actually want to use."
-};
-
-console.log("Let's build something meaningful 🚀");
-
-⚡ Fun Fact
-
-I don't consider a project finished when the code works.
-
-I consider it finished when the product makes sense, the experience feels good, and the architecture is ready for the next improvement.
-
 <div align="center">
 
-Thanks for visiting my profile! 👋
-
-<img src="https://komarev.com/ghpvc/?username=rznayeem&style=for-the-badge&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rznayeem&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
 
 </div>
